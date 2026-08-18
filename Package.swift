@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CloudPay_HCE_SDK",
-            url: "https://repo.extranet.netcetera.biz/nexus/repository/internal-repository-release/com/netcetera/gd/cloudpay/hce.ios.sdk/4.0.0-rc1/cloudpay-ios-hce-sdk-4.0.0.zip",
-            checksum: "25df09fcf8eab9d75e591ad473f517f359a1ff11d2ef5db197fdbaf260fa8cd9"
+            url: "https://repo.extranet.netcetera.biz/nexus/repository/internal-repository-release/com/netcetera/gd/cloudpay/hce.ios.sdk/4.0.0-rc2/cloudpay-ios-hce-sdk-4.0.0-rc2.zip",
+            checksum: "d879cc816ba429d7fdb6ddae5addfe5133d6dbe6624f577d23640b672575bf35"
         )
     ]
 )
